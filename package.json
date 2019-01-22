@@ -1,0 +1,20 @@
+{
+  "name": "galenhwang-website",
+  "version": "0.1.0",
+  "description": "Galen's personal website, where personal projects, a bio, and other things will be hosted.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha --require babel-core/register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galenhwang/galenhwang.github.io.git"
+  },
+  "author": "Galen Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galenhwang/galenhwang.github.io/issues"
+  },
+  "homepage": "https://github.com/galenhwang/galenhwang.github.io#readme",
+  "dependencies": {}
+}
